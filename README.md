@@ -54,8 +54,3 @@ Feature engineering demonstrations
  File Structure
 ├── ML_HOUSE_PRICE.ipynb
 └── README.md
- Contributions
-Contributions and suggestions are welcome.
-MIT License
-If you want, I can add: - More advanced regression models - Hyperparameter tuning - Residual plots -
-Dataset explanation sectio
